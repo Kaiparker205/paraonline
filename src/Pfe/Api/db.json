@@ -1,0 +1,242 @@
+{
+  "Products": [
+    {
+      "name": "BIODERMA SEBIUM PORE...",
+      "current_price": "166 DHS",
+      "original_price": "298 DHS",
+      "discount": "-132 DHS",
+      "favorite": "favorite_border",
+      "id": "3232"
+    },
+    {
+      "name": "ARKOPHARMA FORCAPIL LOTION...",
+      "current_price": "266 DHS",
+      "original_price": "406 DHS",
+      "discount": "-140 DHS",
+      "favorite": "favorite_border",
+      "id": "7c7b"
+    },
+    {
+      "name": "BIODERMA PIGMENTBIO DAILY...",
+      "current_price": "332 DHS",
+      "original_price": "554 DHS",
+      "discount": "-222 DHS",
+      "favorite": "favorite_border",
+      "id": "8a0b"
+    },
+    {
+      "name": "CAUDALIE DUO liphand...",
+      "current_price": "130 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "eff3"
+    },
+    {
+      "name": "KALINE CREME SOLAIRE...",
+      "current_price": "131 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "b1cb"
+    },
+    {
+      "name": "NOVEXPERT SERUM BOOSTER À...",
+      "current_price": "680 DHS",
+      "original_price": "812 DHS",
+      "discount": "-132 DHS",
+      "favorite": "favorite_border",
+      "id": "d515"
+    },
+    {
+      "name": "Forté Pharma Expert...",
+      "current_price": "279 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "c273"
+    },
+    {
+      "name": "RACINE VITA TRAITEMENT...",
+      "current_price": "58 DHS",
+      "original_price": "107 DHS",
+      "discount": "-49 DHS",
+      "favorite": "favorite_border",
+      "id": "c6c5"
+    },
+    {
+      "name": "NOVEXPERT LE MASQUE REPULP...",
+      "current_price": "411 DHS",
+      "original_price": "675 DHS",
+      "discount": "-264 DHS",
+      "favorite": "favorite_border",
+      "id": "15c2"
+    },
+    {
+      "name": "AVENT 2 SUCETTE ULTRA AIR...",
+      "current_price": "160 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "5d2f"
+    },
+    {
+      "name": "AVENT Sucettes Ultra Air...",
+      "current_price": "160 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "1206"
+    },
+    {
+      "name": "Avent Sucette Ultra Air...",
+      "current_price": "160 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "98d8"
+    },
+    {
+      "name": "AVENT Sucettes Ultra Air...",
+      "current_price": "160 DHS",
+      "original_price": "",
+      "discount": "",
+      "favorite": "favorite_border",
+      "id": "30ad"
+    },
+    {
+      "name": "Racine Vita Mist Asdaf...",
+      "current_price": "50 DHS",
+      "original_price": "110 DHS",
+      "discount": "-60 DHS",
+      "favorite": "favorite_border",
+      "id": "2a85"
+    },
+    {
+      "name": "NOVEXPERT BOOSTER SERUM À...",
+      "current_price": "522 DHS",
+      "original_price": "721 DHS",
+      "discount": "-199 DHS",
+      "favorite": "favorite_border",
+      "id": "508f"
+    },
+    {
+      "name": "URIAGE COFFRET AGE PROTECT...",
+      "current_price": "499 DHS",
+      "original_price": "544 DHS",
+      "discount": "-45 DHS",
+      "favorite": "favorite_border",
+      "id": "3873"
+    },
+    {
+      "name": "3 Produits CALLIDERM BEBE...",
+      "current_price": "270 DHS",
+      "original_price": "350 DHS",
+      "discount": "-80 DHS",
+      "favorite": "favorite_border",
+      "id": "ea4d"
+    },
+    {
+      "name": "RILASTIL HYDROTENSEUR SÉRUM...",
+      "current_price": "283 DHS",
+      "original_price": "403 DHS",
+      "discount": "-120 DHS",
+      "favorite": "favorite_border",
+      "id": "5bf7"
+    },
+    {
+      "name": "RILASTIL HYDROTENSEUR...",
+      "current_price": "268 DHS",
+      "original_price": "388 DHS",
+      "discount": "-120 DHS",
+      "favorite": "favorite_border",
+      "id": "1666"
+    },
+    {
+      "name": "RILASTIL HYDROTENSEUR CRÈME...",
+      "current_price": "267 DHS",
+      "original_price": "387 DHS",
+      "discount": "-120 DHS",
+      "favorite": "favorite_border",
+      "id": "09a3"
+    }
+  ],
+  "Clients": [
+    {
+      "id": "1",
+      "username": "jdoe",
+      "password": "p@ssw0rd",
+      "email": "jdoe@example.com",
+      "tel": "+212 6 12 34 56 78"
+    },
+    {
+      "id": "2",
+      "username": "asmith",
+      "password": "s3cr3t",
+      "email": "asmith@example.com",
+      "tel": "+212 6 23 45 67 89"
+    },
+    {
+      "id": "3",
+      "username": "ljohnson",
+      "password": "qwerty",
+      "email": "ljohnson@example.com",
+      "tel": "+212 6 34 56 78 90"
+    },
+    {
+      "id": "4",
+      "username": "mlee",
+      "password": "123456",
+      "email": "mlee@example.com",
+      "tel": "+212 6 45 67 89 01"
+    },
+    {
+      "id": "5",
+      "username": "pgarcia",
+      "password": "abcdef",
+      "email": "pgarcia@example.com",
+      "tel": "+212 6 56 78 90 12"
+    },
+    {
+      "id": "6",
+      "username": "dwilliams",
+      "password": "iloveyou",
+      "email": "dwilliams@example.com",
+      "tel": "+212 6 67 89 01 23"
+    },
+    {
+      "id": "7",
+      "username": "kpatel",
+      "password": "letmein",
+      "email": "kpatel@example.com",
+      "tel": "+212 6 78 90 12 34"
+    },
+    {
+      "id": "8",
+      "username": "tnguyen",
+      "password": "trustno1",
+      "email": "tnguyen@example.com",
+      "tel": "+212 6 89 01 23 45"
+    },
+    {
+      "id": "9",
+      "username": "ssmith",
+      "password": "welcome",
+      "email": "ssmith@example.com",
+      "tel": "+212 6 90 12 34 56"
+    },
+    {
+      "id": "10",
+      "username": "rjones",
+      "password": "password",
+      "email": "rjones@example.com",
+      "tel": "+212 6 01 23 45 67"
+    },
+    {
+      "id": 0.42794265516829455,
+      "username": "ahmed",
+      "email": "ahmediriki7@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

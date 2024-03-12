@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #eee;
+    width: 100vw;
+}
+header nav {
+    display: flex;
+    background-color: orangered;
+
+}
+ul li {
+    list-style: none;
+}
+.btn-order{
+    border-radius: 60px;
+    background-image: -webkit-linear-gradient(5deg, rgb(148, 190, 38) 0%,rgb(98, 175, 33) 100%);
+
+}
+.nav-drop{
+    transform: translateX(-50);
+    transition: transform 0.3s ease-in;
+}
+/*
+li.btnToggle {
+    border-radius: 50% solid black;
+    span {
+        background-color: black;
+        border-radius: 6px;
+        height: 3px;
+        width: 100%;
+    }
+    &:hover .btn-toggle li:nth-child(2) {
+        animation: 3s reverse barger-icon;
+    }
+    &:active .nav-drop {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes barger-icon {
+    0%, 100% {
+        width: 100%;
+    }
+    50% {
+        width: 50%;
+    }
+}
+*/
+button.btnToggle {
+    margin: 20px auto;
+    border-radius: 50% 1px;
+    width: 60px;
+    height: 60px;
+    position: relative; 
+
+}
+button.btnToggle span  {
+
+    position: absolute;
+    background-color: black;
+    border-radius: 6px;
+    height: 2px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.zoneShow {
+    background-color: #eee;
+    margin:0;
+    padding:0;
+    border-radius: 50%;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    gap: 2px;
+    animation: logoRetate 1.2s  infinite;
+}
+.zoneShow div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: #158cba;
+    cursor: pointer;
+    transition: all .6s ease;
+}
+.zoneShow div:hover {
+    background-color: #eff;
+}
+.zoneShow div>* {
+   color: #eee;
+}
+
+.zoneShow div:nth-child(1) {
+    border-radius: 5px 200px 0px 200px;
+    -webkit-border-radius: 5px 200px 0px 200px;
+    -moz-border-radius: 5px 200px 0px 200px;
+}
+.zoneShow div:nth-child(3) {
+    border-radius: 200px 0px 200px 0px;
+    -webkit-border-radius: 200px 0px 200px 0px;
+    -moz-border-radius: 200px 0px 200px 0px;
+}
+.zoneShow div:nth-child(2) {
+    border-radius: 200px 0px 200px 0px;
+-webkit-border-radius: 200px 0px 200px 0px;
+-moz-border-radius: 200px 0px 200px 0px;
+}
+.zoneShow div:nth-child(4) {
+    border-radius: 0px 200px 0px 200px;
+    -webkit-border-radius: 0px 200px 0px 200px;
+    -moz-border-radius: 0px 200px 0px 200px;
+}
+/*@keyframes logoRetate {
+    100%{
+        transform: rotate(360deg);
+    }
+}*/
+.zoneTypeWrite{
+    max-width: 200px;
+    -webkit-text-fill-color:whitesmoke ;
+    -webkit-text-stroke: 1px #333;
+}
